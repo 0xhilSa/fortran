@@ -3,3 +3,4 @@
 !*.md
 !*/
 !basics/*.f90
+!array/*.f90
